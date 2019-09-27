@@ -1,1 +1,1 @@
-# Readme :sparkles:
+# Readme
